@@ -1,0 +1,177 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .grup {
+  background-color: #ffffff;
+  position: relative;
+  width: 1429px;
+  height: 1024px;
+}
+
+.desktop .esquerra {
+  position: absolute;
+  width: 720px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.desktop .titol {
+  position: absolute;
+  width: 581px;
+  height: 126px;
+  top: 77px;
+  left: 66px;
+  background-color: #a7a7a7;
+}
+
+.desktop .nom {
+  position: absolute;
+  top: 30px;
+  left: 92px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .carrera {
+  position: absolute;
+  top: 82px;
+  left: 196px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .contacte {
+  position: absolute;
+  width: 581px;
+  height: 156px;
+  top: 237px;
+  left: 66px;
+  background-color: #ffffff;
+}
+
+.desktop .esquerraText {
+  position: absolute;
+  width: 390px;
+  top: -25px;
+  left: 20px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+
+.desktop .titols {
+  font-weight: 600;
+}
+
+.desktop .textNormal {
+  font-size: 16px;
+  line-height: 26.6px;
+}
+
+.desktop .idiomes {
+  position: absolute;
+  width: 581px;
+  height: 156px;
+  top: 434px;
+  left: 66px;
+  background-color: #ffffff;
+}
+
+.desktop .info {
+  position: absolute;
+  width: 581px;
+  height: 156px;
+  top: 631px;
+  left: 66px;
+  background-color: #ffffff;
+}
+
+.desktop .dreta {
+  position: absolute;
+  width: 666px;
+  height: 971px;
+  top: 27px;
+  left: 748px;
+}
+
+.desktop .extracte {
+  position: absolute;
+  width: 566px;
+  top: 73px;
+  left: 55px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.desktop .titols2 {
+  font-weight: 600;
+  line-height: 40px;
+}
+
+.desktop .educacio {
+  position: absolute;
+  width: 566px;
+  top: 391px;
+  left: 55px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.desktop .textNormal2 {
+  font-size: 20px;
+  line-height: 33.3px;
+}
+
+.desktop .llenguatjes {
+  position: absolute;
+  width: 566px;
+  top: 653px;
+  left: 55px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 666px;
+  height: 971px;
+  top: 0;
+  left: 0;
+  border: 1px solid;
+  border-color: #000000;
+}
